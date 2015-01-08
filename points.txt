@@ -1,0 +1,24 @@
+Master account (Linux porting project) --- owners : X , COntributor Y
+
+If Y wants to contribute
+he will peform the following"
+1. fork it from linyux porting project
+--- the replica will be created in hiw own repo i.e Y/linux porting
+2. git clone 
+-- create replica on his local
+3. he peforms the changes, does a git add, git commit and push
+-- this will push his changes to his own repo i.e Y/Linux porting
+
+in order to push thsi change to Linux porting project (master)
+he will create a pull request and submit it
+
+then the owner X will receive an email starting the same 
+he will review it , merge and close the pull request
+
+
+
+OWN CODE BASE:
+if all my contributors are owners, then you can directly CLONE the repo
+if we have owners + contributors model ,then one should follow the fork process
+
+
